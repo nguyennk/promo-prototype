@@ -13,6 +13,9 @@ or
 
 to start the project
 
+## Screenshot
+![image](https://user-images.githubusercontent.com/1538969/105576987-61ebb880-5d7f-11eb-9880-e35f27968117.png)
+
 ## How to change mock api data?
 
 You can modify the mock api in `src/App.js`, under `createServer`
