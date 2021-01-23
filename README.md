@@ -5,7 +5,13 @@ This assignment was bootstrapped with [Create React App](https://github.com/face
 ## How to start
 
 Ensure you have either yarn or npm on the system
-Run either
+Start by installing the required packages
+
+`npm install`
+or
+`yarn install`
+
+Then run either
 
 `npm start`
 or
